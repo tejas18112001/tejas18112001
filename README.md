@@ -1,4 +1,3 @@
-![logo](https://github.com/tejas18112001/tejas18112001/blob/main/close-up-image-programer-working-his-desk-office.jpg)
 # 💫 About Me:
 🔭 Currently working on project YOUTUBE CLONE<br><br>🌱 I’m currently learning Node.js , OOPS , Java<br><br>👨‍💻 All of my projects are available at https://portfolio-tejas3500raut.netlify.app/<br><br>💬 Ask me about react , javascript , C++ , programming<br><br>📫 How to reach me tejasraut461@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Y4nTZKD3PlKNISYYKsVUeUjv9FSxkZYN/view
 
